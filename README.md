@@ -38,4 +38,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
 ## Result of the competition
 ![image](https://github.com/JOE881003/House-Prices---Advanced-Regression-Techniques/blob/main/IMG/house%20prices%20result.png)
 
+Among 3,514 participants, I ranked 785th, placing me in the top 22%.
+
+
 Competition Website: [https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
