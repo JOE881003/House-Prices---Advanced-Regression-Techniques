@@ -10,7 +10,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
 * [Pandas](http://pandas.pydata.org/)
 * [SciKit-Learn](http://scikit-learn.org/stable/)
 * [Matplotlib](http://matplotlib.org/)
-* 
+
 ## Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
