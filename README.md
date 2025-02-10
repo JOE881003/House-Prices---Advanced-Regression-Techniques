@@ -18,7 +18,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
 *   Exploring Data through Visualizations with Matplotlib
 *   Recodeing variables
 *   model selection using Lasso
-*   
+  
 ## Data Analysis
 *    Supervised Machine learning Techniques:
     +   Linear Regression
