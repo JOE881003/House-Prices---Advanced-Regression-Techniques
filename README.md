@@ -33,7 +33,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
     +   Kernel Ridge
     +   ExtraTrees Regressor
 *    Grid search
-*    ensemble learning
+*    Ensemble Learning
 
 ## Result of the competition
 ![image](https://github.com/JOE881003/House-Prices---Advanced-Regression-Techniques/blob/main/IMG/house%20prices%20result.png)
