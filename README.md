@@ -20,7 +20,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
 *   model selection using Lasso
   
 ## Data Analysis
-*    Supervised Machine learning Techniques:
+*    Supervised Machine Learning Techniques:
     +   Linear Regression
     +   Ridge Regression
     +   Random Forest
@@ -32,7 +32,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
     +   Bayesian Ridge
     +   Kernel Ridge
     +   ExtraTrees Regressor
-*    Grid search
+*    Grid Search
 *    Ensemble Learning
 
 ## Result of the competition
