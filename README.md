@@ -14,11 +14,9 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
 ## Data Handling
 *   Importing Data with Pandas
 *   Cleaning Data
-*   Missing data imputation
+*   Missing Data Imputation
 *   Exploring Data through Visualizations with Matplotlib
 *   Recodeing variables
-*   model selection using Lasso
-  
 ## Data Analysis
 *    Supervised Machine Learning Techniques:
     +   Linear Regression
@@ -32,6 +30,7 @@ This is a well-known competition on [Kaggle](https://www.kaggle.com/competitions
     +   Bayesian Ridge
     +   Kernel Ridge
     +   ExtraTrees Regressor
+*   Model Selection using Lasso
 *    Grid Search
 *    Ensemble Learning
 
